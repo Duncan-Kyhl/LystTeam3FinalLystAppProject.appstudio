@@ -1,0 +1,83 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#B22222",
+  "backgroundimage": "",
+  "borderColor": "#F8F8FF",
+  "borderStyle": "solid",
+  "borderWidth": "20",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "target",
+        "Elements",
+        "drpTarget.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "target",
+        "Elements",
+        "lblTarget.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "target",
+        "Elements",
+        "btnTargetNext.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "target",
+        "Elements",
+        "Image1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "target",
+        "Elements",
+        "btnTargetReturn.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "target",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}

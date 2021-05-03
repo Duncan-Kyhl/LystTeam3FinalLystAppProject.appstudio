@@ -1,0 +1,130 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#FA8072",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "solid",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "lblHeading.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "Label11.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "TextBox1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "Label21.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "TextBox2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "Stripe1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "btnCalculationAgain.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "btnMapAttack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "Button3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "stripeAPI",
+        "Elements",
+        "Label22.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 460,
+  "designWidth": 320,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "stripeAPI",
+  "language": "JavaScript",
+  "left": 0,
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "Form1.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "scroll_options": "mouseWheel:true,  bounce:true, zoom:false",
+  "scrolling": "false",
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": 0,
+  "width": 320
+}

@@ -1,0 +1,101 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "#FA8072",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "inptUsernameLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "inptPasswordInpt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "btnLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "lblLyst.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "lblErrorMsg.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "lblDoubleCheck.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "signIn",
+        "Elements",
+        "Image5.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "signIn",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "signIn.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
